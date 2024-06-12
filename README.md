@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-- [Assignment 1: Crop Yield Prediction using Random Forest](#assignment-1-crop-yield-prediction-using-random-forest)
+- [Crop Yield Prediction using Random Forest](#assignment-1-crop-yield-prediction-using-random-forest)
   - [Objective](#objective)
   - [Random Forest Algorithm](#random-forest-algorithm)
   - [Dataset](#dataset)
   - [Code](#code)
   - [Results](#results)
-- [Assignment 2: Crop Yield Prediction using SVR, RBFNN, and BPNN](#assignment-2-crop-yield-prediction-using-svr-rbfnn-and-bpnn)
+- [Crop Yield Prediction using SVR, RBFNN, and BPNN](#assignment-2-crop-yield-prediction-using-svr-rbfnn-and-bpnn)
   - [Objective](#objective-1)
   - [Algorithms](#algorithms)
     - [Support Vector Regression (SVR)](#support-vector-regression-svr)
@@ -20,7 +20,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Assignment 1: Crop Yield Prediction using Random Forest
+## Crop Yield Prediction using Random Forest
 
 ### Objective
 
@@ -50,7 +50,7 @@ The Random Forest algorithm achieved the following results on the given dataset:
 - Mean Squared Error (MSE): 0.075%
 - Root Mean Squared Error (RMSE): 22.6%
 
-## Assignment 2: Crop Yield Prediction using SVR, RBFNN, and BPNN
+## Crop Yield Prediction using SVR, RBFNN, and BPNN
 
 ### Objective
 
