@@ -32,7 +32,7 @@ Random Forest is a popular machine learning algorithm that belongs to the superv
 
 ### Dataset
 
-The dataset used for this assignment is provided in an Excel file (`21BCE9274.xlsx`). The dataset contains features related to crop yield, and the target variable is the actual crop yield (`Yeild (Q/acre)`).
+The dataset used for this assignment is provided in an Excel file. The dataset contains features related to crop yield, and the target variable is the actual crop yield (`Yeild (Q/acre)`).
 
 ### Code
 
@@ -109,8 +109,8 @@ To run the code for either assignment, follow these steps:
 
 1. Clone the repository or download the source code files.
 2. Install the required Python libraries (e.g., pandas, scikit-learn, matplotlib, openpyxl).
-3. Open the respective Python file (`assignment1.py` or `assignment2.py`) in a Python IDE or text editor.
-4. Ensure that the dataset file (`21BCE9274.xlsx`) is in the correct location specified in the code.
+3. Open the respective Python file  in a Python IDE or text editor.
+4. Ensure that the dataset file is in the correct location specified in the code.
 5. Run the Python script.
 
 The code will load the dataset, preprocess the data, train the specified machine learning models, evaluate their performance, and generate visualizations and predictions as per the assignment requirements.
