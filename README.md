@@ -24,7 +24,7 @@
 
 ### Objective
 
-The aim of this assignment is to predict crop yield using the Random Forest machine learning algorithm.
+The aim is to predict crop yield using the Random Forest machine learning algorithm.
 
 ### Random Forest Algorithm
 
